@@ -1,0 +1,7 @@
+#cmd
+#Create and activate an environment
+conda create --name coralnet10 python=3.10 -y
+conda activate coralnet0
+
+#install uv first
+pip install uv
